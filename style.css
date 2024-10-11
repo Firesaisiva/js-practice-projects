@@ -1,0 +1,43 @@
+boddy{
+  color: white;
+  padding: 0%;
+  margin:0%;
+}
+/* .bg-color1{
+  background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); */
+/* } */
+
+
+@media (max-width:700px){
+  #hero img{
+    width:100px;
+  }
+}
+.bg-color{
+ background:  linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,209,233,1) 100%);
+}
+.bg-color2{
+  background: radial-gradient(circle, rgba(25,41,39,0.49389179755671897) 0%, rgba(28,147,172,1) 0%, rgba(9,9,121,1) 100%);
+}
+#hero img{
+  width: 250px;
+  border:0px;
+  height:250px;
+  
+  border-radius: 50%;
+}
+.about{
+  background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxQM22IkLUrCnOKlTp5xK8MP1jJwCvlkfCTA&shttps://i.pinimg.com/564x/dc/8d/3d/dc8d3d5921d989a7964455f2547adab1.jpg") ;
+  z-index: 0.5;
+
+}
+.about1{
+  background: url("https://st.depositphotos.com/1419773/1381/i/450/depositphotos_13813604-stock-photo-water-drops.jpg");
+}
+#About img{
+  width:100px ;
+}
+
+.html{
+  width: 100px;
+}
